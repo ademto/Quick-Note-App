@@ -2,6 +2,8 @@
 
 A simple and intuitive note-taking application built with React. This app provides an easy way to manage your notes with a clean and user-friendly interface.
 
+![Quick Note App Screenshot](./src/quick-note.png)
+
 ## Features
 
 - **Create Notes**: Add new notes with titles and content.
@@ -19,16 +21,19 @@ A simple and intuitive note-taking application built with React. This app provid
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/ademto/Quick-Note-App.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd Quick-Note-App
    ```
 
 3. Install dependencies:
+
    ```bash
    npm install
    ```
